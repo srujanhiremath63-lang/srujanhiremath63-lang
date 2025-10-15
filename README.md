@@ -1,5 +1,13 @@
 <h1 align="center">✨ Hi 👋, I'm Srujan ✨</h1>
 <h3 align="center">Aspiring Developer | AI & Machine Learning Enthusiast</h3>
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 💻 I have knowledge of **HTML, Java, Python, C, C++**
+- 👨‍💻 All of my projects will be available here: [https://github.com/srujanhiremath63-lang](https://github.com/srujanhiremath63-lang)
+- 📫 How to reach me: **srujanhiremath63@gmail.com**
+- ⚡ Fun fact: **I like exploring new technologies 🚀**
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
