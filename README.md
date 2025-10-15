@@ -7,7 +7,7 @@
 </p>
 
 <br>
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning **DSA**
 <br>
 - 💻 I have knowledge of **HTML, Java, Python, C, C++,MySQL**
 <br>
