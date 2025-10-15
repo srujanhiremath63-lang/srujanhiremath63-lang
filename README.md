@@ -17,23 +17,6 @@
 <br>
 - ⚡ Fun fact: **I like exploring new technologies 🚀**
 <br>
-
----
-<br>
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=srujanhiremath63-lang&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujanhiremath63-lang&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanhiremath63-lang&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
