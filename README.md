@@ -1,4 +1,5 @@
-
+<h1 align="center">✨ Hi 👋, I'm Srujan ✨</h1>
+<h3 align="center">Aspiring Developer | AI & Machine Learning Enthusiast</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
